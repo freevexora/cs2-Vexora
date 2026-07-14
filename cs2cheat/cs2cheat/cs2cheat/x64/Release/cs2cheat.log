@@ -1,0 +1,12 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 2559 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  cs2cheat.vcxproj -> C:\Users\user\Desktop\cs2cheat\cs2cheat\x64\Release\cs2cheat.exe
