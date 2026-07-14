@@ -9,6 +9,8 @@ Target
 Smooth
 FOV (1-90)
 
+<img width="1270" height="722" alt="image" src="https://github.com/user-attachments/assets/0aa1bf0e-f6bb-4b02-ad0a-25d05b7cd0ff" />
+
 ESP
 Enable enemy
 Enemy ESP Box
